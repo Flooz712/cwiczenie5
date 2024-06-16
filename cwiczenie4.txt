@@ -1,1 +1,2 @@
 Tekst:
+Dodano nowy tekst do pliku cwiczenie4.txt
